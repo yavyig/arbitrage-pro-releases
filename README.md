@@ -27,7 +27,7 @@
 
 ### Installation
 
-1.  Download the latest `Arbitrage-Pro-Setup-1.1.2.exe` from the releases page.
+1.  Download the latest `Arbitrage-Pro-Setup-1.2.0.exe` from the releases page.
 2.  Run the installer. The app will automatically create a desktop shortcut and launch.
 3.  Enter your **Serial Key** on the splash screen to authenticate via the secure MongoDB cluster.
 
