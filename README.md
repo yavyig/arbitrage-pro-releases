@@ -1,6 +1,6 @@
 # 🚀 Arbitrage Pro
 
-**Arbitrage Pro** is a high-performance, premium-grade Amazon Arbitrage Scraper designed for speed, accuracy, and ease of use. Built with a modern Electron frontend and a robust Node.js backend, it provides a seamless workflow for professional sellers to find profitable opportunities in seconds.
+**Arbitrage Pro** is a high-performance, premium-grade Amazon Arbitrage Scraper designed for speed, accuracy, and ease of use. It provides a seamless workflow for professional sellers to find profitable opportunities in seconds.
 
 ## ✨ Features
 
