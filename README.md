@@ -1,5 +1,3 @@
-\<div align="center"\>
-
 # 🚀 Arbitrage Pro
 
 **The Definitive Amazon Arbitrage Engine for Professional Sellers**
