@@ -53,7 +53,7 @@ Getting started is as easy as running the installer. No complex coding or enviro
 
 ### Installation
 
-1.  📥 **Download** the latest `Arbitrage-Pro-Setup-1.4.*.exe` from our [Releases Page](https://www.google.com/search?q=%23).
+1.  📥 **Download** the latest `Arbitrage-Pro-Setup-1.4.*.exe` from our [Releases Page]([https://www.google.com/search?q=%23](https://github.com/yavyig/arbitrage-pro-releases/releases)).
 2.  💻 **Install** by simply running the executable. The app handles the rest and creates a desktop shortcut.
 3.  🔑 **Activate** by pasting your Serial Key into the splash screen. You will be instantly authenticated via our secure servers.
 4.  💸 **Profit.** Choose your scraper, set your parameters, and watch the opportunities roll in.
