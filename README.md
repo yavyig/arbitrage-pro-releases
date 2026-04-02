@@ -6,10 +6,7 @@
 [](https://www.google.com/search?q=%23)
 [](https://www.google.com/search?q=%23)
 
-\<p align="center"\>
 Stop searching manually. Start scaling instantly. Arbitrage Pro provides a seamless, high-speed workflow to uncover highly profitable Amazon arbitrage opportunities in seconds.
-\</p\>
-\</div\>
 
 -----
 
@@ -78,7 +75,4 @@ We provide premium, 1-on-1 support for all our users.
   * **Instagram:** Slide into our DMs **[@yavuzalper](https://instagram.com/yavuzalper)**
   * **In-App:** Reach out directly via the **Contact** portal inside the Arbitrage Pro dashboard.
 
-\<div align="center"\>
-<br>
-\<i\>© 2026 Arbitrage Pro. All rights reserved. Built for sellers, by sellers.\</i\>
-\</div\>
+© 2026 Arbitrage Pro. All rights reserved. Built for sellers, by sellers.
